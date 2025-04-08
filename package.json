@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "app-clean-ddd",
   "private": true,
   "scripts": {
     "build": "turbo run build",
