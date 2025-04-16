@@ -1,4 +1,7 @@
 { 
+  "code-runner.executorMap": {
+    "typescript": "npx tsx",
+  },
   "material-icon-theme.folders.associations": {
     "educacional":"core",
     "typescript-config": "typescript"
